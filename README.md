@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Josue
 
-<!--
-**JosAlc67/JosAlc67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Estudiante de Mecatrónica | Apasionado por la Robótica y la Automatización
 
-Here are some ideas to get you started:
+Soy estudiante de mecatrónica con experiencia en desarrollo de sistemas de control, programación de microcontroladores y diseño de circuitos electrónicos. Me apasiona la integración de hardware y software para la creación de soluciones innovadoras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y Herramientas
+- **Programación:** C++, Python, Arduino, PlatformIO
+- **Diseño Electrónico:** Proteus, KitCad, Tinkercad
+- **Simulación:** Wokwi, MATLAB
+- **Sensores y Actuadores:** Ultrasonido, Motores DC, Puente H L298N, Brújula HMC5883L
+- **Prototipado:** Impresión 3D
+
+---
+
+## 🚀 Proyectos Destacados
+- **Robot Seguidor de Línea con PID**
+  - Control de velocidad con retroalimentación
+  - Sensores QTR
+  - Algoritmos de búsqueda de línea
+
+- **Robot Autónomo con GPS**
+  - Navegación por coordenadas usando Google Maps API
+  - Detección de obstáculos con sensores ultrasónicos
+  - Brújula HMC5883L para orientación
+
+- **Automatización con App Inventor**
+  - Aplicaciones móviles para control remoto
+  - Comunicación vía Bluetooth
+
+---
+
+## 🔗 Conéctate conmigo
+- [LinkedIn](https://www.linkedin.com/in/josue-alcivar-26b669215/)
+- [Correo Electrónico](mailto:pjalciva@espol.edu.ec)
+---
+
+### ¡Siempre estoy abierto a colaborar en proyectos de robótica y automatización! 🤖💪
